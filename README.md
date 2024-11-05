@@ -251,7 +251,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | [El Bongosero: A Crowd-sourced Symbolic Dataset of Improvised Hand Percussion Rhythms Paired with Drum Patterns](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [Utilizing Listener-Provided Tags for Music Emotion Recognition: A Data-Driven Approach](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [PiCoGen2: Piano cover generation with transfer learning approach and weakly aligned data](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
-| [Diff-MST: Differentiable Mixing Style Transfer](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
+| [Diff-MST: Differentiable Mixing Style Transfer](https://ismir2024.ismir.net/) | [![GitHub](https://img.shields.io/github/stars/sai-soum/Diff-MST)](https://github.com/sai-soum/Diff-MST) | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [Semi-Supervised Contrastive Learning of Musical Representations](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [A Dataset of Larynx Microphone Recordings for Singing Voice Reconstruction](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [Improved symbolic drum style classification with grammar-based hierarchical representations](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
@@ -275,7 +275,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
-| [ST-ITO: Controlling audio effects for style transfer with inference-time optimization](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
+| [ST-ITO: Controlling audio effects for style transfer with inference-time optimization](https://ismir2024.ismir.net/) | [![GitHub](https://img.shields.io/github/stars/csteinmetz1/st-ito)](https://github.com/csteinmetz1/st-ito) | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [ComposerX: Multi-Agent Music Generation with LLMs](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [Do Music Generation Models Encode Music Theory?](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [PolySinger: Singing-Voice to Singing-Voice Translation from English to Japanese](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
@@ -322,7 +322,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | [Augment, Drop & Swap: Improving Diversity in LLM Captions for Efficient Music-Text Representation Learning](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [Music Discovery Dialogue Generation Using Human Intent Analysis and Large Language Model](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [STONE: Self-supervised tonality estimator](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
-| [Beat this! Accurate beat tracking without DBN postprocessing](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
+| [Beat this! Accurate beat tracking without DBN postprocessing](https://ismir2024.ismir.net/) | [![GitHub](https://img.shields.io/github/stars/CPJKU/beat_this)](https://github.com/CPJKU/beat_this) | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [The Sound Demixing Challenge 2023 – Music Demixing Track](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 
 <a href="#sections">
@@ -335,7 +335,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
-| [Scoring Time Intervals Using Non-Hierarchical Transformer for Automatic Piano Transcription](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
+| [Scoring Time Intervals Using Non-Hierarchical Transformer for Automatic Piano Transcription](https://ismir2024.ismir.net/) | [![GitHub](https://img.shields.io/github/stars/Yujia-Yan/Transkun)](https://github.com/Yujia-Yan/Transkun) | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [CADENZA: A Generative Framework for Expressive Musical Ideas and Variations](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [Looking for Tactus in All the Wrong Places: Statistical Inference of Metric Alignment in Rap Flow](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
 | [Exploring GPT's Ability as a Judge in Music Understanding](https://ismir2024.ismir.net/) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/) |
